@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">Techs</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -24,17 +24,27 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiarruda10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+
+<h2 align="left">Linguagens mais utilizadas em meus atuais projetos</h2>
+
+
+###
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiarruda10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="165" alt="languages graph"  />
 </div>
 
-###
-
-<h2 align="center">Entre em contao</h2>
 
 ###
 
-<div align="center">
+
+<h2 align="left">Entre em contato</h2>
+
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/guilherme-magalh%C3%A3es-de-arruda-bb1841314/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
