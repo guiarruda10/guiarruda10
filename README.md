@@ -25,7 +25,7 @@
 ###
 
 
-<h2 align="left">Linguagens mais utilizadas em meus atuais projetos</h2>
+<h2 align="left">Linguagens mais utilizadas em meus projetos atuais</h2>
 
 
 ###
