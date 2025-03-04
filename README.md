@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou um estudante de Análise e Desenvolvimento de Sistemas, tendo como principal objetivo me transformar em um full stack developer. <br>Estou atualmente aprimorando meus conhecimentos em front-end e começando a aprender back-end para criar aplicações integradas, escaláveis e eficientes.</h4>
+<h3 align="left">Sou um estudante de Análise e Desenvolvimento de Sistemas, tendo como principal objetivo me transformar em um full stack developer. <br>Estou atualmente aprimorando meus conhecimentos em front-end e começando a aprender back-end para criar aplicações integradas, escaláveis e eficientes.</h3>
 
 ###
 
