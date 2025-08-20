@@ -22,7 +22,15 @@ Atualmente, estou expandindo meus conhecimentos em Inteligência Artificial, com
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img width="20" />
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="50" alt="n8n logo" />
+  <img width="20" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="langchain logo" />
+  <img width="20" />
+  <img src="https://avatars.githubusercontent.com/u/160702559?s=200&v=4" height="50" alt="crewai logo" />
 </div>
 
 ###
