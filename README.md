@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="left">
+<p align="left">
 Sou desenvolvedor backend com foco em Python e experiência no desenvolvimento de agentes autônomos e soluções avançadas. Tenho trabalhado com ferramentas como LangChain, CrewAI e n8n, além de conhecimentos em Google Cloud e AWS, criando fluxos automatizados, integrações entre sistemas e automações que aumentam a eficiência operacional.
 
 
 Busco desenvolver soluções escaláveis, aplicando boas práticas de desenvolvimento e tecnologias de IA para gerar resultados concretos e impacto real nos negócios.
-</h3>
+</p>
 
 ###
 
