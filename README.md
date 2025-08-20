@@ -13,24 +13,17 @@ Atualmente, estou expandindo meus conhecimentos em Inteligência Artificial, com
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img width="20" />
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="50" alt="n8n logo" />
-  <img width="20" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="langchain logo" />
-  <img width="20" />
-  <img src="https://avatars.githubusercontent.com/u/160702559?s=200&v=4" height="50" alt="crewai logo" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain logo" />
+  <img src="https://avatars.githubusercontent.com/u/160702559?s=200&v=4" height="50" alt="CrewAI logo" />
+  <img src="https://crewai.com/brand" height="50" alt="CrewAI official logo" />
 </div>
 
 ###
