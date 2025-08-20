@@ -1,35 +1,35 @@
-<h2 align="left">Olá 👋<br><br>Me chamo Guilherme Magalhães, seja bem-vindo!!</h2>
+<h2 align="left">Olá<br><br>Me chamo Guilherme Magalhães, seja bem-vindo!!</h2>
 
 ###
 
 <h3 align="left">
-Sou **Desenvolvedor Web** focado em me tornar um **Full Stack Developer**.  
-Atualmente estou aprofundando meus conhecimentos em **front-end** e **back-end**, além de expandir para **Inteligência Artificial com Python**, sempre com o objetivo de desenvolver aplicações integradas, escaláveis e eficientes.
+Sou Desenvolvedor Back-end com foco em criar APIs escaláveis e sistemas robustos.  
+Atualmente, estou expandindo meus conhecimentos em Inteligência Artificial, com ênfase no desenvolvimento de agentes inteligentes utilizando Python.
 </h3>
 
 ###
 
-<h2 align="left">🚀 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 </div>
 
 ###
 
-<h2 align="left">📊 Linguagens mais utilizadas em meus projetos</h2>
+<h2 align="left">Linguagens mais utilizadas em meus projetos</h2>
 
 ###
 
@@ -39,7 +39,7 @@ Atualmente estou aprofundando meus conhecimentos em **front-end** e **back-end**
 
 ###
 
-<h2 align="left">📬 Entre em contato</h2>
+<h2 align="left">Entre em contato</h2>
 
 ###
 
