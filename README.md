@@ -22,8 +22,6 @@ Atualmente, estou expandindo meus conhecimentos em Inteligência Artificial, com
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="50" alt="n8n logo" />
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain logo" />
-  <img src="https://avatars.githubusercontent.com/u/160702559?s=200&v=4" height="50" alt="CrewAI logo" />
-  <img src="https://crewai.com/brand" height="50" alt="CrewAI official logo" />
 </div>
 
 ###
