@@ -22,7 +22,6 @@ Atualmente, estou expandindo meus conhecimentos em Inteligência Artificial, com
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 </div>
